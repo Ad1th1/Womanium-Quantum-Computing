@@ -17,6 +17,11 @@ Quantum Mechanics Basics:
 - Feynman Vol 3
 - H.C Verma
 
+Quantum ML:
+- Andrew NG Deep Learning
+- Andrew NG Machine Learning
+- QML -> https://youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI
+
 
 Research Papers to check out:
 - https://iopscience.iop.org/article/10.1088/1751-8121/ac7091/pdf
